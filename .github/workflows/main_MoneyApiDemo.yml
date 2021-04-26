@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'MoneyApiDemo'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_fec9c55366154de2843b6508ed4b6d41 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_4404c29480e84ce1acca846ff3f565d2 }}
